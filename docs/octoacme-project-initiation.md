@@ -18,7 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
-- Identified personas needed (e.g., Developers, UX/UI Designer, DevOps Engineer, QA Automation Engineer, Technical Writer, Subject Matter Expert)
+- Identified personas needed (e.g., Developer, UX/UI Designer, DevOps Engineer, QA Automation Engineer, Technical Writer, Subject Matter Expert)
 
 ## Project One-pager Template
 - Project name:
