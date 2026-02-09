@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Identified personas needed (e.g., Developers, UX/UI Designer, DevOps Engineer, QA Automation Engineer, Technical Writer, Subject Matter Expert)
 
 ## Project One-pager Template
 - Project name:
@@ -28,10 +29,25 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Product Manager:
+  - Project Manager:
+  - Developers (count):
+  - UX/UI Designer (if applicable):
+  - DevOps Engineer (if applicable):
+  - QA Automation Engineer (if applicable):
+  - Technical Writer (if applicable):
+  - Subject Matter Expert (if applicable):
+  - Other specialists:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Required personas and team members identified and confirmed
+- [ ] UX/UI Designer engaged if user-facing changes expected
+- [ ] DevOps Engineer engaged for infrastructure or deployment needs
+- [ ] QA Automation Engineer consulted on testing strategy
+- [ ] Technical Writer notified for documentation planning
+- [ ] Subject Matter Expert identified for specialized domains
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
